@@ -1,0 +1,1 @@
+/etc/prosody/conf.avail/webrtc01.mundi-tv.tk.cfg.lua

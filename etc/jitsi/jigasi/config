@@ -1,0 +1,10 @@
+# Jigasi settings
+JIGASI_SIPUSER=webrtc01@sip01.mundi-tv.tk
+JIGASI_SIPPWD=MTIzNDU2
+JIGASI_SECRET=kHlLQeH9
+JIGASI_OPTS=""
+JIGASI_HOSTNAME=webrtc01.mundi-tv.tk
+JIGASI_HOST=localhost
+
+# adds java system props that are passed to jigasi (default are for logging config file)
+JAVA_SYS_PROPS="-Djava.util.logging.config.file=/etc/jitsi/jigasi/logging.properties"
